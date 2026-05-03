@@ -61,7 +61,7 @@ To develop an intelligent conversational agent that:
 ---
 
 ## 🚀 Demo Application
-![](Screenshot (32).png)
+![Persuasion for Good Dialogue System](image.png)
 
 ```python
 import streamlit as st
