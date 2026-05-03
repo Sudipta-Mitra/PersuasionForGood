@@ -37,13 +37,7 @@ To develop an intelligent conversational agent that:
   * `Turn`: Turn index in conversation
   * `Unit`: Sentence/utterance
 
-Example:
 
-```
-Good morning. How are you doing today?
-Hi. I am doing good. How about you?
-I'm doing pretty good for a Tuesday morning.
-```
 
 ---
 
